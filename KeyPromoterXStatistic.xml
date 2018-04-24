@@ -710,7 +710,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1031,6 +1031,12 @@
         <Item>
           <IdeaActionID>Maven.RunBuild</IdeaActionID>
           <Description>Run Maven Build</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings Repository…">
+        <Item>
+          <IdeaActionID>ConfigureIcs</IdeaActionID>
+          <Description>Settings Repository…</Description>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'proftrading'">
