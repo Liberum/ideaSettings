@@ -1095,6 +1095,12 @@
           <Description>Settings Repository…</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Start container">
+        <Item>
+          <IdeaActionID>Docker.RemoteServers.StartContainer</IdeaActionID>
+          <Description>Start container</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'proftrading'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
