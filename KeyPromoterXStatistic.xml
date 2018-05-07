@@ -49,14 +49,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Copy">
-        <Item>
-          <IdeaActionID>$Copy</IdeaActionID>
-          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
-          <Description>Copy</Description>
-          <Count>39</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Copy Path">
         <Item>
           <IdeaActionID>CopyPaths</IdeaActionID>
@@ -955,6 +947,14 @@
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
