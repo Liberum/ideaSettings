@@ -81,6 +81,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PT2'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'PT2'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'proftrading'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -102,7 +110,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -262,7 +270,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>11</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...ValidationTest.java'">
@@ -439,14 +447,6 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'PFixSubscribeProcessorTest.testProcess_strikePriceExists'</Description>
           <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'PT2'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'PT2'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ProServer [clean]'">
@@ -681,14 +681,6 @@
           <Count>9</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'PT2'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'PT2'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'PfsSerializationTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -886,14 +878,6 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'OrderManagerTest.testAddTrade_OrderAmountChanged'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'PT2'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'PT2'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -1099,6 +1083,14 @@
           <Description>Refresh</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PT2'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'PT2'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'proftrading'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1120,6 +1112,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Main'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PT2'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'PT2'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -1183,6 +1183,14 @@
         <Item>
           <IdeaActionID>Docker.RemoteServers.StartContainer</IdeaActionID>
           <Description>Start container</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PT2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PT2'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'proftrading'">
