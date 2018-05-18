@@ -177,14 +177,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Hierarchy">
-        <Item>
-          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
-          <ShortCut>'Alt+8'</ShortCut>
-          <Description>Hierarchy</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Implementation(s)">
         <Item>
           <IdeaActionID>GotoImplementation</IdeaActionID>
@@ -1031,6 +1023,14 @@
         <Item>
           <IdeaActionID>ActivateGerritToolWindow</IdeaActionID>
           <Description>Gerrit</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
