@@ -9,14 +9,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Build Project">
-        <Item>
-          <IdeaActionID>CompileDirty</IdeaActionID>
-          <ShortCut>'Ctrl+F9'</ShortCut>
-          <Description>Build Project</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Clone Caret Above">
         <Item>
           <IdeaActionID>EditorCloneCaretAbove</IdeaActionID>
@@ -79,14 +71,6 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'OrderManagerTest.testAddTrade_OrderAmoun...'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'PT2'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'PT2'</Description>
-          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'proftrading'">
@@ -286,7 +270,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>45</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...ValidationTest.java'">
@@ -654,7 +638,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -838,7 +822,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -975,6 +959,14 @@
           <Description>Application Servers</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Clear All">
         <Item>
           <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
@@ -1001,6 +993,14 @@
         <Item>
           <IdeaActionID>AppServers.DebugServer</IdeaActionID>
           <Description>Debug</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PT2'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'PT2'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
