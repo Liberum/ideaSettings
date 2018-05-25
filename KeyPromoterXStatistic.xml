@@ -73,14 +73,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'proftrading'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'proftrading'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete">
         <Item>
           <IdeaActionID>FileChooser.Delete</IdeaActionID>
@@ -1049,6 +1041,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'PT2'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'proftrading'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'proftrading'</Description>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
