@@ -793,6 +793,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'stop()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'stop()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testAddTrade_Order...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1193,6 +1201,14 @@
         <Item>
           <IdeaActionID>Gerrit.Refresh</IdeaActionID>
           <Description>Refresh</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FisFeedTest.stop'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'FisFeedTest.stop'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PT2'">
