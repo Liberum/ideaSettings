@@ -1091,6 +1091,14 @@
           <Description>Debug</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FisFeedTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'FisFeedTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'PT2'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
