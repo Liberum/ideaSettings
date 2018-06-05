@@ -1025,14 +1025,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="View Breakpoints...">
-        <Item>
-          <IdeaActionID>ViewBreakpoints</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
-          <Description>View Breakpoints...</Description>
-          <Count>96</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="View assertEquals Difference">
         <Item>
           <IdeaActionID>openAssertEqualsDiff</IdeaActionID>
@@ -1451,6 +1443,14 @@
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>97</Count>
         </Item>
       </Statistic>
     </option>
