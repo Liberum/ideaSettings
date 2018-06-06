@@ -646,7 +646,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'UnplacedOrderProcessorTest'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'UnplacedOrderProcessorTest.test_order_UNPLACED_to_REPLACED'">
@@ -655,6 +655,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'UnplacedOrderProcessorTest.test_order_UNPLACED_to_REPLACED'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UnplacedOrderProcessorTest.test_order_UNPLACED_to_REPLACED_2'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'UnplacedOrderProcessorTest.test_order_UNPLACED_to_REPLACED_2'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'UnplacedOrderProcessorTest.test_order_to_UNPLACED'">
@@ -870,6 +878,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'test_onEvent_partF...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test_order_UNPLACE...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'test_order_UNPLACE...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
