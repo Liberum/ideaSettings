@@ -81,14 +81,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'ENLauncher'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'ENLauncher'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'FisClientTest.subscribeInstr'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -105,28 +97,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'QHLauncher'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'QHLauncher'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'QNLauncher'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'QNLauncher'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'QRLauncher'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'QRLauncher'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -334,7 +310,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...ValidationTest.java'">
@@ -593,6 +569,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'QNLauncher'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'QNLauncher'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Rerun Failed Tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -806,7 +790,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ENLauncher'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FisClientTest'">
@@ -911,6 +895,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'SettingsValidationTest'</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.pfsoft''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Tests in 'com.pfsoft''</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.pfsoft.backoffice.componen...'">
@@ -1121,14 +1113,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'ENLauncher'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'ENLauncher'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'FisClientTest.subscribeInstr'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1182,7 +1166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'QHLauncher'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QNLauncher'">
@@ -1190,7 +1174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'QNLauncher'</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QRLauncher'">
@@ -1198,7 +1182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'QRLauncher'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SettingsRuleValidationTest.riskStopOutRule_changeConst'">
@@ -1305,6 +1289,14 @@
           <Description>Debug</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ENLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ENLauncher'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FisFeedTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1327,6 +1319,22 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'PT2'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'QHLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'QHLauncher'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'QNLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'QNLauncher'</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'proftrading'">
@@ -1605,6 +1613,14 @@
         <Item>
           <IdeaActionID>Docker.RemoteServers.StartContainer</IdeaActionID>
           <Description>Start container</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ENLauncher'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ENLauncher'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PT2'">
