@@ -1,17 +1,16 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-02-02T11:02:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-15T12:01:26</property>
+    <property name="modified">2018-06-18T10:43:07</property>
     <property name="originalScheme">Darcula copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="29262b" />
   </colors>
