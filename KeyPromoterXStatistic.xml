@@ -97,14 +97,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'QRLauncher'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'QRLauncher'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete">
         <Item>
           <IdeaActionID>FileChooser.Delete</IdeaActionID>
@@ -1158,7 +1150,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'QRLauncher'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SettingsRuleValidationTest.riskStopOutRule_changeConst'">
@@ -1311,6 +1303,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'QNLauncher'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'QRLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'QRLauncher'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'proftrading'">
