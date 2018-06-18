@@ -1049,14 +1049,6 @@
           <Count>15</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Settings...">
-        <Item>
-          <IdeaActionID>ShowSettings</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+S'</ShortCut>
-          <Description>Settings...</Description>
-          <Count>47</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Show Dependencies...">
         <Item>
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
@@ -1607,10 +1599,26 @@
           <Description>Run Maven Build</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'Ctrl+S'</ShortCut>
+          <Description>Save All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings Repository…">
         <Item>
           <IdeaActionID>ConfigureIcs</IdeaActionID>
           <Description>Settings Repository…</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show in Files">
