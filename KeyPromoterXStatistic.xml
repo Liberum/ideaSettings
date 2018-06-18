@@ -1739,6 +1739,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Toggle 'Skip Tests' Mode">
+        <Item>
+          <IdeaActionID>Maven.ToggleSkipTests</IdeaActionID>
+          <Description>Toggle 'Skip Tests' Mode</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
