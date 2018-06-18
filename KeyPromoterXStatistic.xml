@@ -294,7 +294,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...ValidationTest.java'">
@@ -862,7 +862,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'QRLauncher'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SettingsRuleValidationTest'">
@@ -1121,6 +1121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'NodeConfiguration [compile]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'NodeConfiguration [compile]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OrderManagerTest.testAddTrade_OrderAmountChanged'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1142,7 +1150,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ProServer [package]'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ProServer [test]'">
@@ -1159,14 +1167,6 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'QHLauncher'</Description>
           <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QRLauncher'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'QRLauncher'</Description>
-          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SettingsRuleValidationTest.riskStopOutRule_changeConst'">
@@ -1669,6 +1669,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'QNLauncher'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'QRLauncher'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'QRLauncher'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'proftrading'">
