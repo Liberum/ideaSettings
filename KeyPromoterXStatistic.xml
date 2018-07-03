@@ -222,7 +222,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+C'</ShortCut>
           <Description>Java Class</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump To Source">
@@ -270,7 +270,7 @@
           <IdeaActionID>NewDir</IdeaActionID>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>Package</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
