@@ -65,14 +65,6 @@
           <Count>18</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Cut">
-        <Item>
-          <IdeaActionID>$Cut</IdeaActionID>
-          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
-          <Description>Cut</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Data Source Properties">
         <Item>
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
@@ -167,14 +159,6 @@
           <ShortCut>'Ctrl+Shift+A'</ShortCut>
           <Description>Find Action...</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Find Usages">
-        <Item>
-          <IdeaActionID>FindUsages</IdeaActionID>
-          <ShortCut>'Alt+F7'</ShortCut>
-          <Description>Find Usages</Description>
-          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">
@@ -1261,6 +1245,14 @@
           <Count>40</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>Cut</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Database">
         <Item>
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
@@ -1391,6 +1383,14 @@
         <Item>
           <IdeaActionID>Git.Fetch</IdeaActionID>
           <Description>Fetch</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Gerrit">
