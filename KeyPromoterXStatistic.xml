@@ -286,7 +286,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>81</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild ...le 'GainCapitalFeed'">
@@ -326,6 +326,14 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
           <Description>Redo Choose Lookup Item</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Initialize variable 'symbol'">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'</ShortCut>
+          <Description>Redo Initialize variable 'symbol'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
