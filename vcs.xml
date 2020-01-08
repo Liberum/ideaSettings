@@ -6,8 +6,20 @@
           <option name="url" value="ssh://al.shevchenko@192.168.0.2:29418/ProServer" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://a.shevchenko@gerrit.traderevolution.com/a/ProServer" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gerrit.traderevolution.com" />
+          <option name="userName" value="a.shevchenko" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://a.shevchenko@gerrit.traderevolution.com:29418/ProServer" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/project" />
+    <option name="cloneParentDir" value="C:\gitWork" />
   </component>
 </application>
