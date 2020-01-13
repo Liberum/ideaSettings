@@ -1,17 +1,15 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-04-24T17:11:04</property>
+    <property name="created">2018-02-02T11:02:00</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2020-01-13T13:50:11</property>
+    <property name="ideVersion">2017.3.4.0.0</property>
+    <property name="modified">2018-06-18T10:43:07</property>
     <property name="originalScheme">Darcula copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="29262b" />
@@ -38,27 +36,6 @@
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fffddb" />
-      </value>
-    </option>
-    <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="2b2b2b" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="2b2b2b" />
-        <option name="EFFECT_COLOR" value="3c3f41" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
-    </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value>
-        <option name="BACKGROUND" value="232525" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
