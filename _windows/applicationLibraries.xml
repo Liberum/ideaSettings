@@ -7,10 +7,7 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_daterangepicker_daterangepicker.js" />
         </sourceFilesUrls>
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_daterangepicker_daterangepicker.css" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_daterangepicker_daterangepicker.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
@@ -20,9 +17,7 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_modules_exporting.js" />
         </sourceFilesUrls>
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_modules_exporting.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
@@ -32,9 +27,7 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_font-awesome_4.7.0_css_font-awesome.css" />
         </sourceFilesUrls>
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_font-awesome_4.7.0_css_font-awesome.css" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
@@ -44,9 +37,7 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_highcharts.js" />
         </sourceFilesUrls>
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.highcharts.com_highcharts.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
@@ -56,9 +47,7 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_momentjs_latest_moment.min.js" />
         </sourceFilesUrls>
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_momentjs_latest_moment.min.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
