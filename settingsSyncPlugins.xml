@@ -48,6 +48,7 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -125,7 +126,6 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -148,7 +148,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -173,7 +172,6 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
